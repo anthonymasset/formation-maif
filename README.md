@@ -1,7 +1,7 @@
 # Formation GIT MAIF BA
 
 ## Sommaire
-1. Généralités
+1. [Généralités](Chapitre 1 - Généralités.md)
 2. Installation et paramétrage
 3. Bases de git
 4. Travailler avec des dépôts distants
